@@ -25,5 +25,4 @@
 ### 📫 Como me encontrar:
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaogbrl?igsh=MTUxaWhjc3JyaHA3bA==)
 
-### 📊 Estatísticas do GitHub:
-![João Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dracula)
+
