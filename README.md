@@ -15,7 +15,8 @@
 
 ### 📷 Algumas fotos que tirei do céu:
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/seu_usuario/seu_repositorio/main/imagens/ceu1.png](https://files.oaiusercontent.com/file-J8qdZxfd7bUCnCkkco8oGP?se=2025-04-24T21%3A39%3A43Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D687070ca-95c7-4638-8358-16c8e8c0cf44.png&sig=mMjllpPND07mIWPNbCC3TbbK7co1GpdhfQ%2BNA/SisBM%3D)" width="250"/>
+  <img src="![ceu1 png](https://github.com/user-attachments/assets/65065863-9dc2-4b80-a3a5-2dadc22bc1a2)
+" width="250"/>
   <img src="https://raw.githubusercontent.com/seu_usuario/seu_repositorio/main/imagens/ceu2.png" width="250"/>
   <img src="https://raw.githubusercontent.com/seu_usuario/seu_repositorio/main/imagens/ceu3.png" width="250"/>
   <img src="https://raw.githubusercontent.com/seu_usuario/seu_repositorio/main/imagens/ceu4.png" width="250"/>
