@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o João Gabriel 👋</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="150">
+  <img src="[https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif](https://tenor.com/pt-BR/view/penguin-class-market-high-school-classroom-gif-27290856)https://tenor.com/pt-BR/view/penguin-class-market-high-school-classroom-gif-27290856" width="150">
 </div>
 
 ---
